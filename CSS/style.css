@@ -1,3 +1,7 @@
+html{
+    max-width: 1400px;
+}
+
 *{
     font-family: 'Raleway', sans-serif;
 }
@@ -298,4 +302,45 @@ footer{
     font-weight:700;
     font-size:18px;
 }
+
+/*tablette*/
+@media screen and (min-width: 482px)and  (max-width: 991px) {
+    #sections-grises{
+        margin-top:20px;
+        display:flex;
+        justify-content: space-between;
+        flex-direction: column;
+    } 
+    #ensemble-populaire{
+        display:flex;
+        flex-direction: row;
+        justify-content: space-between;
+    } 
+}
+/*mobiles*/
+@media screen and (max-width: 481px){
+    .section#hébergements{
+        background-color: #FFF;
+    }
+    #sections-grises{
+        margin-top:20px;
+        display:flex;
+        justify-content: space-between;
+        flex-direction: column-reverse;
+    } 
+    #flex-activités{
+        display:flex;
+        justify-content: space-between;
+        flex-direction:column;
+        
+    }
+    footer{
+        display:flex;
+        flex-direction: column;
+        width:100%;
+        padding-top:20px;
+        padding-left:40px;
+    }
+}
+
 
