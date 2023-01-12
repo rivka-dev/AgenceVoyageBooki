@@ -149,6 +149,19 @@ background: #DEEBFF;
 
 }
 
+#sections-grises{
+    margin-top:20px;
+    display:flex;
+    justify-content: space-between;
+}
+
+.section.gris{
+    background: #F2F2F2;
+border-radius: 20px;
+padding:35px;
+height: 626px;
+}
+
 
 /*information*/
 .information{
@@ -164,18 +177,7 @@ background: #DEEBFF;
     text-align:center;
     
 }
-#sections-grises{
-    margin-top:20px;
-    display:flex;
-    justify-content: space-between;
-}
 
-.section.gris{
-    background: #F2F2F2;
-border-radius: 20px;
-padding:35px;
-height: 626px;
-}
 
 
 /*hébergements*/
@@ -186,6 +188,7 @@ width: 62%;
     display:flex;
     flex-wrap: wrap;
     justify-content: space-between;
+    height:500px;
    
   
 }
@@ -226,39 +229,43 @@ font-weight: 400;
 /*populaires*/
 .section#populaire{ 
     width: 31%;
-    }
-#ensemble-populaire{
-    display:flex;
-    flex-direction: column;
-    justify-content: space-between;
 }
+
 #titre-populaire{
     display:flex;
     justify-content: space-between;
-    align-items: center;
+    align-items: center;      
 }
+    
+#ensemble-populaire{
+    display:flex;
+    flex-direction: column;
+    justify-content:space-between;
+    height:550px;
+}
+
 
 .hotel-populaire{
     display:flex;
     height: 144px;
-max-width: 343px;
-background: #FFFFFF;
-border-radius: 20px;
-
-
-
+    max-width: 343px;
+    background: #FFFFFF;
+    border-radius: 20px;
 }
+
 .hotel-populaire img{
     height: 134px;
     width: 127px;    
-border: 5px solid #FFFFFF;
-border-radius: 20px 0px 0px 20px;
+    border: 5px solid #FFFFFF;
+    border-radius: 20px 0px 0px 20px;
 }
 .populaire-ecriture{
     display:flex;
     flex-direction:column;
     height:144px;
+    padding-right: 30px;
 }
+
 /*activités*/
 #activités{
     display:flex;
