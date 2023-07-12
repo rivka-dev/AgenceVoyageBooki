@@ -29,7 +29,7 @@ Sarah sends you an e-mail to tell you about the progress of the project:
     Good luck with this project, and have a nice day!
     Sarah, CTO @Booki
     
-Attachments :
-[Models from the Booki site](https://www.figma.com/file/aen32jonHhD7JnIEL2b3sE/Projet-2-FR---Booki?node-id=349%3A1/)
-[Images from Booki's site](https://course.oc-static.com/projects/D%C3%A9veloppeur+Web/DWP_P3+HTML+CSS+Booki/Images+Booki.zip)
-[Summary note for integration of the Booki site](https://course.oc-static.com/projects/D%C3%A9veloppeur+Web/IW_P3+HTML+CSS+Booki/Note+de+synthe%CC%80se+pour+inte%CC%81gration+du+site+Booki+(IW).pdf)
+Attachments :  
+[Models from the Booki site](https://www.figma.com/file/aen32jonHhD7JnIEL2b3sE/Projet-2-FR---Booki?node-id=349%3A1/)  
+[Images from Booki's site](https://course.oc-static.com/projects/D%C3%A9veloppeur+Web/DWP_P3+HTML+CSS+Booki/Images+Booki.zip)  
+[Summary note for integration of the Booki site](https://course.oc-static.com/projects/D%C3%A9veloppeur+Web/IW_P3+HTML+CSS+Booki/Note+de+synthe%CC%80se+pour+inte%CC%81gration+du+site+Booki+(IW).pdf)  
